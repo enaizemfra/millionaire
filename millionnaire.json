@@ -1,0 +1,505 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the punishment for Sysiphus&#039;s craftiness?",
+            "correct_answer": "Cursed to roll a boulder up a hill for eternity.",
+            "incorrect_answers": [
+                "Tied to a boulder for eternity, being pecked by birds.",
+                "Standing in a lake filled with water he could not drink.",
+                "To fell a tree that regenerated after every axe swing."
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which company developed the video game &quot;Borderlands&quot;?",
+            "correct_answer": "Gearbox Software",
+            "incorrect_answers": [
+                "2K Games",
+                "Activision",
+                "Rockstar Games"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+            "correct_answer": "Putney",
+            "incorrect_answers": [
+                "Hammersmith",
+                "Vauxhall ",
+                "Battersea"
+            ]
+        },
+     
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What country is the second largest in the world by area?",
+            "correct_answer": "Canada",
+            "incorrect_answers": [
+                "Russia",
+                "China",
+                "United States of America"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the capital of Jamaica?",
+            "correct_answer": "Kingston",
+            "incorrect_answers": [
+                "San Juan",
+                "Port-au-Prince",
+                "Bridgetown"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+            "correct_answer": "HD Graphics 500",
+            "incorrect_answers": [
+                "HD Graphics 700 ",
+                "HD Graphics 600",
+                "HD Graphics 7000"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+            "correct_answer": "Marie Antoinette",
+            "incorrect_answers": [
+                "Czar Nicholas II",
+                "Elizabeth I",
+                "Henry VIII"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The creator of the Enigma Cypher and Machine was of what nationality?",
+            "correct_answer": "German",
+            "incorrect_answers": [
+                "American",
+                "British",
+                "Polish"
+            ]
+        },
+    
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+            "correct_answer": "8 hours",
+            "incorrect_answers": [
+                "4 hours",
+                "12 hours",
+                "5 hours"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the fastest speed possible in Trackmania&sup2;: Stadium?",
+            "correct_answer": "1000  km/h",
+            "incorrect_answers": [
+                "500 km/h",
+                "320 km/h",
+                "100 km/h"
+            ]
+        },
+        {
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the Pixar film, &quot;Toy Story&quot; what was the name of the child who owned the toys?",
+            "correct_answer": "Andy",
+            "incorrect_answers": [
+                "Edward",
+                "Danny",
+                "Matt"
+            ]
+        },
+      
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which is not a type of neuron?",
+            "correct_answer": "Perceptual Neuron",
+            "incorrect_answers": [
+                "Sensory Neuron",
+                "Motor Neuron",
+                "Interneuron"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the nickname of the US state of California?",
+            "correct_answer": "Golden State",
+            "incorrect_answers": [
+                "Sunshine State",
+                "Bay State",
+                "Treasure State"
+            ]
+        },
+  
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these is the name of a song by Tears for Fears?",
+            "correct_answer": "Shout",
+            "incorrect_answers": [
+                "Scream",
+                "Yell",
+                "Shriek"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the main character in &quot;Life is Strange&quot;?",
+            "correct_answer": "Maxine Caulfield",
+            "incorrect_answers": [
+                "Victoria Chase",
+                "Stella Hill",
+                "Chloe Price"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which famous 90&#039;s rap album is commonly referred to as &quot;The Bible of Hip Hop&quot;?",
+            "correct_answer": "Illmatic",
+            "incorrect_answers": [
+                "The Low End Theory",
+                "The Chronic",
+                "Enter The Wu-Tang (36 Chambers)"
+            ]
+        },
+        {
+            "category": "Entertainment: Comics",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?",
+            "correct_answer": "Mega Man",
+            "incorrect_answers": [
+                "Super Mario Brothers",
+                "Alex Kidd",
+                "Super Monkey Ball"
+            ]
+        },
+
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "From which country did the song &quot;Gangnam Style&quot; originate from?",
+            "correct_answer": "South Korea",
+            "incorrect_answers": [
+                "Japan",
+                "North Korea",
+                "China"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "About how old is Earth?",
+            "correct_answer": "4.5 Billion Years",
+            "incorrect_answers": [
+                "3.5 Billion Years",
+                "2.5 Billion Years",
+                "5.5 Billion Years"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What do the video games No Man&rsquo;s Sky and Mighty No. 9 have in common?",
+            "correct_answer": "Both were announced in 2013.",
+            "incorrect_answers": [
+                "Both were crowdfunded.",
+                "Both were developed by indie studios.",
+                "Both were released for the PlayStation 3."
+            ]
+        },
+
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the second-largest city in Lithuania?",
+            "correct_answer": "Kaunas",
+            "incorrect_answers": [
+                "Panevėžys",
+                "Vilnius",
+                "Klaipėda"
+            ]
+        },
+    
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What year was Super Mario Bros. released?",
+            "correct_answer": "1985",
+            "incorrect_answers": [
+                "1983",
+                "1987",
+                "1986"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?",
+            "correct_answer": "The End",
+            "incorrect_answers": [
+                "Perfection",
+                "Sandbox",
+                "Fairness"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?",
+            "correct_answer": "300",
+            "incorrect_answers": [
+                "100",
+                "200",
+                "400"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?",
+            "correct_answer": "Poison Potato",
+            "incorrect_answers": [
+                "Mors Oil",
+                "Alpacookie",
+                "Parmesansho Fruit"
+            ]
+        },
+        {
+            "category": "Entertainment: Musicals & Theatres",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "After England, more Shakespeare plays are set in this present day country than in any other.",
+            "correct_answer": "Italy",
+            "incorrect_answers": [
+                "United States",
+                "Greece",
+                "France"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
+            "correct_answer": "Sal DeLuca and Finn O&#039;Leary",
+            "incorrect_answers": [
+                "Richtofen",
+                "Al Arlington and Sal DeLuca",
+                "Jessica Rose and Jack Vincent"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Jewelpet Sunshine&quot;, what is the song that plays when Kanon and her friends bust out of prison?",
+            "correct_answer": "I Don&#039;t Want to Miss a Thing",
+            "incorrect_answers": [
+                "Eye Of The Tiger",
+                "Born to be Wild",
+                "Ruby Ring"
+            ]
+        },
+        {
+            "category": "Entertainment: Books",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+            "correct_answer": "Dinah",
+            "incorrect_answers": [
+                "Oscar",
+                "Heath",
+                "Smokey"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?",
+            "correct_answer": "Jynx",
+            "incorrect_answers": [
+                "Electabuzz",
+                "Magmar",
+                "Rhydon"
+            ]
+        },
+        {
+            "category": "Entertainment: Board Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the board game Twister, released to the public?",
+            "correct_answer": "April 1966",
+            "incorrect_answers": [
+                "September 1965",
+                "January 1969",
+                "February 1966"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which pop singer was brought in by SEGA to produce the music for &quot;Sonic the Hedgehog 3&quot;?",
+            "correct_answer": "Michael Jackson ",
+            "incorrect_answers": [
+                "Prince",
+                "George Michael",
+                "Vanilla Ice "
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the scientific term for &#039;taste&#039;?",
+            "correct_answer": "Gustatory Perception",
+            "incorrect_answers": [
+                "Olfaction",
+                "Somatosensation",
+                "Auditory Perception"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these Movies was NOT released in 1996?",
+            "correct_answer": "Gladiator",
+            "incorrect_answers": [
+                "Independence Day",
+                "The Rock",
+                "Mission: Impossible"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In what sport does Fanny Chmelar compete for Germany?",
+            "correct_answer": "Skiing",
+            "incorrect_answers": [
+                "Swimming",
+                "Showjumping",
+                "Gymnastics"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "On what street did the 1666 Great Fire of London start?",
+            "correct_answer": "Pudding Lane",
+            "incorrect_answers": [
+                "Baker Street",
+                "Houses of Parliament",
+                "St Paul&#039;s Cathedral"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the most commonly used noun in the English language?",
+            "correct_answer": "Time",
+            "incorrect_answers": [
+                "Home",
+                "Water",
+                "Man"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does the United States of America celebrate during the 4th of July?",
+            "correct_answer": "The signing of the Declaration of Independence",
+            "incorrect_answers": [
+                "The anniversary of the Battle of Gettysburg",
+                "The crossing of the Delaware River",
+                "The ratification of the Constitution"
+            ]
+        },
+        {
+            "category": "Entertainment: Musicals & Theatres",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?",
+            "correct_answer": "Daveed Diggs",
+            "incorrect_answers": [
+                "Lin-Manuel Miranda",
+                "Javier Mu&ntilde;oz",
+                "Wayne Brady"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?",
+            "correct_answer": "Mamluk",
+            "incorrect_answers": [
+                "Ayyubid",
+                "Ummayyad",
+                "Seljuq"
+            ]
+        },
+        {
+            "category": "Science: Mathematics",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",
+            "correct_answer": "90",
+            "incorrect_answers": [
+                "180",
+                "270",
+                "0"
+            ]
+        },
+   
+    ]
+}
